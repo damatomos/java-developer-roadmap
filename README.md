@@ -37,7 +37,7 @@ java_developer_roadmap/
 - [x] ~~Object Lifecycle~~
 - [x] ~~Method Chaining~~
 - [x] ~~Enum~~
-- [ ] Record
+- [x] ~~Record~~
 - [ ] Initializer Block
 - [ ] Inheritance
 - [ ] Abstraction
