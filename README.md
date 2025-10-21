@@ -36,7 +36,7 @@ java_developer_roadmap/
 ### 1. Object-Oriented Programming
 - [x] ~~Object Lifecycle~~
 - [x] ~~Method Chaining~~
-- [ ] Enum
+- [x] ~~Enum~~
 - [ ] Record
 - [ ] Initializer Block
 - [ ] Inheritance
