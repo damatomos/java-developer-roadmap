@@ -38,7 +38,7 @@ java_developer_roadmap/
 - [x] ~~Method Chaining~~
 - [x] ~~Enum~~
 - [x] ~~Record~~
-- [ ] Initializer Block
+- [x] ~~Initializer Block~~
 - [ ] Inheritance
 - [ ] Abstraction
 - [ ] Encapsulation
